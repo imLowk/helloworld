@@ -1,0 +1,12 @@
+#h1 {
+    color:brown;
+  font-size: x-large;
+}
+html {
+  /* background: url('https://th.bing.com/th/id/OIP.qAs_s1XPrtLWKlBaMOYV9wHaD4?w=304&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7'); */
+  background-size: 100%;
+  /* background-size: cover; */
+}
+div {
+  border: 2px solid red;
+}
